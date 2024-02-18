@@ -114,7 +114,7 @@
     "urls": [
       "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF/blob/main/deepseek-coder-6.7b-instruct.Q8_0.gguf"
     ],
-    "sha256": "02cd6ce7ccec670cf6d3dd147932f13e584f9e964d5a3297a74b401b658471ae"
+    "sha256": "51fe1262cbfe98a20365a15566ae5c89c59422fea11ec64c1d4df528851a6266"
   },
   {
     "name": "DeepseekCoder-33B-instruct",
